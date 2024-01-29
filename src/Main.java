@@ -138,5 +138,6 @@ public class Main {
         System.out.println( " зарплата Кристины после повышения составит " + salaryKrisNew + " рублей ");
         System.out.println( " зарлпата Кристины после повышенния в год составит " + salaryKrisNewYear + " рублей " + " ");
         System.out.println( " Кристина теперь получает " + salaryKrisNew + " рублей " + " Годовой доход Кристины состваляет " + salaryKrisNewYear + " рублей ");
+
     }
 }
